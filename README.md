@@ -2,8 +2,8 @@
 
 Python 3<br /><br />
 
-Solves Todd Lammle's IP Subnet Practice Page problem - https://www.lammle.com/ip-subnet-practice-page<br />
-Note: the practice page is now behind a paywall, but the old setup can be seen if you put the address above in https://archive.org<br /><br />
+Solves San Bernardino Valley College's IP Subnet Practice Page problem - https://faculty.valleycollege.edu/rpowell/jscript/subnet2.htm
+<br /><br />
 Given an IP address and subnet mask in the form xxx.xxx.xxx.xxx/xx , find the<br />
 1.) Network IP<br />
 2.) First Host<br />
